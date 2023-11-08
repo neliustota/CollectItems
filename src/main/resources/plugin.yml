@@ -1,0 +1,4 @@
+name: Collectitems
+version: '${project.version}'
+main: org.emrage.collectitems.Collectitems
+api-version: '1.20'
